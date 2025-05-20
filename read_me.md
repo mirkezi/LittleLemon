@@ -6,14 +6,16 @@ Raw Raw!
 superuser: mirko / mirko
 superuser token: a7a730514b3dee2f4c5b6c58618401cbaf239ff2
 
-endpoints:
+Endpoints:
+
 MenuItems API endpoint:
     http://127.0.0.1:8000/menu/
 Booking API endpoint:
     http://127.0.0.1:8000/booking/
-User view and creation:
+
+DJOSER User view and creation:
     http://127.0.0.1:8000/auth/users/ 
-User token assignment:
+DJOSER User token assignment:
     http://127.0.0.1:8000/auth/token/login/
 
 testuser
