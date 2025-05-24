@@ -6,7 +6,7 @@ To test this application you'll be required to:
 1. Clone the git repo
 2. Create a virtual environment 
 3. install django, djangorestframework, djoser and mysqlclient
-4.modify the settings.py file at the project level dir to correctly establish a connection with your sql server or modify to a different database.
+4. modify the settings.py file at the project level dir to correctly establish a connection with your sql server or modify to a different database.
 5. make migration and migrate to database.
 6. change directory to main repo folder, where module manage.py is located, and run the server on local host. 
 
